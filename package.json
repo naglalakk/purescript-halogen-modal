@@ -1,0 +1,13 @@
+{
+  "name": "purescript-halogen-modal",
+  "version": "0.1.0",
+  "description": "Modal for purescript-halogen",
+  "main": "index.js",
+  "repository": "https://github.com/naglalakk/purescript-halogen-modal",
+  "author": "Thordur Hermannsson <doddi@kott.is>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
